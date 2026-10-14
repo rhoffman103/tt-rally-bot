@@ -1,0 +1,8 @@
+{
+  "path": ["app"],
+  "format": ["typescript", "tsx", "javascript", "jsx"],
+  "ignore": ["app/components/ui/**", "**/*.test.ts"],
+  "reporters": ["console"],
+  "threshold": 0,
+  "gitignore": true
+}

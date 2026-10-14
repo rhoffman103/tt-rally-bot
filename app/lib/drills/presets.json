@@ -1,0 +1,235 @@
+[
+  {
+    "id": "forehand-to-backhand",
+    "name": "Forehand to backhand",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 5220,
+            "lowerRpm": 3860,
+            "height": 20,
+            "dropPoint": 6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 5220,
+            "lowerRpm": 3860,
+            "height": 20,
+            "dropPoint": -6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "falkenberg",
+    "name": "Falkenberg",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 5220,
+            "lowerRpm": 3860,
+            "height": 25,
+            "dropPoint": -6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 5220,
+            "lowerRpm": 3860,
+            "height": 25,
+            "dropPoint": 0,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 5220,
+            "lowerRpm": 3860,
+            "height": 25,
+            "dropPoint": 6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "random-backspin",
+    "name": "Random backspin",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 1620,
+            "lowerRpm": 3320,
+            "height": 0,
+            "dropPoint": -6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 1620,
+            "lowerRpm": 3320,
+            "height": 0,
+            "dropPoint": 0,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 1620,
+            "lowerRpm": 3320,
+            "height": 0,
+            "dropPoint": 6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 2140,
+            "lowerRpm": 4180,
+            "height": 10,
+            "dropPoint": -2,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": true,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "push-to-loop",
+    "name": "Push then loop",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 760,
+            "lowerRpm": 2800,
+            "height": -10,
+            "dropPoint": -3,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 3170,
+            "lowerRpm": 4530,
+            "height": 30,
+            "dropPoint": 4,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "block",
+    "name": "Block practice",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 6940,
+            "lowerRpm": 4900,
+            "height": 35,
+            "dropPoint": -4,
+            "frequency": 70,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 6940,
+            "lowerRpm": 4900,
+            "height": 35,
+            "dropPoint": -1,
+            "frequency": 70,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 6940,
+            "lowerRpm": 4900,
+            "height": 35,
+            "dropPoint": 3,
+            "frequency": 70,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 1.5
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]

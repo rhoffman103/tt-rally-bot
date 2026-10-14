@@ -1,0 +1,786 @@
+[
+  {
+    "id": "zero-to-hero-1-1",
+    "name": "1.1 Forehand drive, slow",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 4650,
+            "lowerRpm": 2290,
+            "height": 69,
+            "dropPoint": 6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-1-2",
+    "name": "1.2 Backhand drive, slow",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 4650,
+            "lowerRpm": 2290,
+            "height": 69,
+            "dropPoint": -6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-1-3",
+    "name": "1.3 Forehand, then backhand",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 4650,
+            "lowerRpm": 2290,
+            "height": 69,
+            "dropPoint": 6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 4650,
+            "lowerRpm": 2290,
+            "height": 69,
+            "dropPoint": -6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-2-1",
+    "name": "2.1 Forehand counter-hit",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7120,
+            "lowerRpm": 1220,
+            "height": 54,
+            "dropPoint": 6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-2-2",
+    "name": "2.2 Backhand counter-hit",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7120,
+            "lowerRpm": 1220,
+            "height": 54,
+            "dropPoint": -6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-2-3",
+    "name": "2.3 Two backhands, one forehand",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7120,
+            "lowerRpm": 1220,
+            "height": 54,
+            "dropPoint": -6,
+            "frequency": 50,
+            "repetitions": 2
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7120,
+            "lowerRpm": 1220,
+            "height": 54,
+            "dropPoint": 6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-2-4",
+    "name": "2.4 Forehand or backhand, random",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7120,
+            "lowerRpm": 1220,
+            "height": 54,
+            "dropPoint": 6,
+            "frequency": 40,
+            "repetitions": 1
+          },
+          {
+            "upperRpm": 7120,
+            "lowerRpm": 1220,
+            "height": 54,
+            "dropPoint": -6,
+            "frequency": 40,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-3-1",
+    "name": "3.1 Push light backspin",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 1620,
+            "lowerRpm": 3390,
+            "height": 79,
+            "dropPoint": -6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-3-2",
+    "name": "3.2 Push heavy backspin",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 440,
+            "lowerRpm": 4570,
+            "height": 72,
+            "dropPoint": -6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-3-3",
+    "name": "3.3 Push, both sides",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 730,
+            "lowerRpm": 4270,
+            "height": 73,
+            "dropPoint": -6,
+            "frequency": 20,
+            "repetitions": 1
+          },
+          {
+            "upperRpm": 730,
+            "lowerRpm": 4270,
+            "height": 73,
+            "dropPoint": 6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-3-4",
+    "name": "3.4 Short backspin serve",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 430,
+            "lowerRpm": 3740,
+            "height": 89,
+            "dropPoint": 0,
+            "frequency": 10,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3.5
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-4-1",
+    "name": "4.1 Forehand loop on a long push",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 1110,
+            "lowerRpm": 5830,
+            "height": 32,
+            "dropPoint": 6,
+            "frequency": 10,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3.5
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-4-2",
+    "name": "4.2 Backhand loop on a long push",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 1110,
+            "lowerRpm": 5830,
+            "height": 32,
+            "dropPoint": -6,
+            "frequency": 10,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3.5
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-4-3",
+    "name": "4.3 Loop heavy backspin",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 920,
+            "lowerRpm": 7410,
+            "height": 12,
+            "dropPoint": 6,
+            "frequency": 10,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3.5
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-4-4",
+    "name": "4.4 Push, push, loop",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 730,
+            "lowerRpm": 4270,
+            "height": 73,
+            "dropPoint": -6,
+            "frequency": 20,
+            "repetitions": 2
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 1110,
+            "lowerRpm": 5830,
+            "height": 32,
+            "dropPoint": 6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "combos",
+      "value": 10
+    },
+    "pauseBetweenSetsSec": 3,
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-5-1",
+    "name": "5.1 Block a loop",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7460,
+            "lowerRpm": 2270,
+            "height": 40,
+            "dropPoint": -6,
+            "frequency": 40,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-5-2",
+    "name": "5.2 Forehand loop against topspin",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7120,
+            "lowerRpm": 1220,
+            "height": 54,
+            "dropPoint": 6,
+            "frequency": 40,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-5-3",
+    "name": "5.3 Block a fast loop",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7500,
+            "lowerRpm": 3610,
+            "height": 30,
+            "dropPoint": -6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-5-4",
+    "name": "5.4 Topspin, random side",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7340,
+            "lowerRpm": 3210,
+            "height": 33,
+            "dropPoint": 6,
+            "frequency": 50,
+            "repetitions": 1
+          },
+          {
+            "upperRpm": 7340,
+            "lowerRpm": 3210,
+            "height": 33,
+            "dropPoint": -6,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-6-1",
+    "name": "6.1 Third-ball attack",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 1110,
+            "lowerRpm": 5830,
+            "height": 32,
+            "dropPoint": 6,
+            "frequency": 30,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7220,
+            "lowerRpm": 2500,
+            "height": 40,
+            "dropPoint": -6,
+            "frequency": 30,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7220,
+            "lowerRpm": 2500,
+            "height": 40,
+            "dropPoint": 6,
+            "frequency": 30,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "combos",
+      "value": 10
+    },
+    "pauseBetweenSetsSec": 4,
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-6-2",
+    "name": "6.2 Short or long?",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 430,
+            "lowerRpm": 3740,
+            "height": 89,
+            "dropPoint": 0,
+            "frequency": 20,
+            "repetitions": 1
+          },
+          {
+            "upperRpm": 1110,
+            "lowerRpm": 5830,
+            "height": 32,
+            "dropPoint": 6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-6-3",
+    "name": "6.3 Spin or no spin?",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 700,
+            "lowerRpm": 5420,
+            "height": 33,
+            "dropPoint": -6,
+            "frequency": 20,
+            "repetitions": 1
+          },
+          {
+            "upperRpm": 3060,
+            "lowerRpm": 3060,
+            "height": 52,
+            "dropPoint": -6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 3
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-6-4",
+    "name": "6.4 Wide angles",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7220,
+            "lowerRpm": 2500,
+            "height": 40,
+            "dropPoint": -9,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 7220,
+            "lowerRpm": 2500,
+            "height": 40,
+            "dropPoint": 9,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-6-5",
+    "name": "6.5 Loop, then smash",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 920,
+            "lowerRpm": 7410,
+            "height": 12,
+            "dropPoint": 6,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "upperRpm": 4060,
+            "lowerRpm": 2880,
+            "height": 63,
+            "dropPoint": 0,
+            "frequency": 20,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "combos",
+      "value": 10
+    },
+    "pauseBetweenSetsSec": 3,
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "zero-to-hero-6-6",
+    "name": "6.6 Match play",
+    "lines": [
+      {
+        "alternatives": [
+          {
+            "upperRpm": 430,
+            "lowerRpm": 3740,
+            "height": 89,
+            "dropPoint": 6,
+            "frequency": 50,
+            "repetitions": 1
+          },
+          {
+            "upperRpm": 1110,
+            "lowerRpm": 5830,
+            "height": 32,
+            "dropPoint": -6,
+            "frequency": 50,
+            "repetitions": 1
+          },
+          {
+            "upperRpm": 7340,
+            "lowerRpm": 3210,
+            "height": 33,
+            "dropPoint": 6,
+            "frequency": 50,
+            "repetitions": 1
+          },
+          {
+            "upperRpm": 7340,
+            "lowerRpm": 3210,
+            "height": 33,
+            "dropPoint": -6,
+            "frequency": 50,
+            "repetitions": 1
+          },
+          {
+            "upperRpm": 6550,
+            "lowerRpm": 5960,
+            "height": 14,
+            "dropPoint": 0,
+            "frequency": 50,
+            "repetitions": 1
+          }
+        ]
+      }
+    ],
+    "randomOrder": false,
+    "duration": {
+      "kind": "minutes",
+      "value": 2
+    },
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]

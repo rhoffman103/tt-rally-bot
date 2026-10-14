@@ -1,0 +1,147 @@
+[
+  {
+    "id": "zero-to-hero",
+    "name": "Zero to hero",
+    "description": "From first hits to match play, using only the robot. Each session, warm up with drill 1.3, then play 3 or 4 drills from your stage and 1 from an earlier stage. Move on when you pass every drill in your stage in 2 sessions in a row.",
+    "stages": [
+      {
+        "name": "First contact",
+        "goal": "Hit the ball back over the net with a relaxed, repeatable stroke.",
+        "steps": [
+          {
+            "drillId": "zero-to-hero-1-1",
+            "note": "Forehand stroke. Pass: 8 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-1-2",
+            "note": "Backhand stroke. Pass: 8 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-1-3",
+            "note": "Changing between forehand and backhand. Pass: 7 of 10 land on the table."
+          }
+        ]
+      },
+      {
+        "name": "Rally",
+        "goal": "Keep a steady rally at a real game pace.",
+        "steps": [
+          {
+            "drillId": "zero-to-hero-2-1",
+            "note": "Forehand at rally pace. Pass: 8 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-2-2",
+            "note": "Backhand at rally pace. Pass: 8 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-2-3",
+            "note": "Moving your feet, not just an arm. Pass: 7 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-2-4",
+            "note": "Reading where the ball goes. Pass: 7 of 10 land on the table."
+          }
+        ]
+      },
+      {
+        "name": "Backspin and the short game",
+        "goal": "Push backspin back low and safe, and return a short serve.",
+        "steps": [
+          {
+            "drillId": "zero-to-hero-3-1",
+            "note": "Backhand push. Pass: 8 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-3-2",
+            "note": "Opening the racket more for spin. Pass: 7 of 10 land on the table, low over the net."
+          },
+          {
+            "drillId": "zero-to-hero-3-3",
+            "note": "Forehand and backhand push. Pass: 7 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-3-4",
+            "note": "Returning a short serve. Pass: 7 of 10 land on the table, short or low."
+          }
+        ]
+      },
+      {
+        "name": "Topspin against backspin",
+        "goal": "Lift backspin with a loop. This is the shot that starts most attacks.",
+        "steps": [
+          {
+            "drillId": "zero-to-hero-4-1",
+            "note": "Forehand loop. Pass: 7 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-4-2",
+            "note": "Backhand loop. Pass: 6 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-4-3",
+            "note": "Lifting more, brushing the ball more. Pass: 6 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-4-4",
+            "note": "Reading short and long balls: push the first 2, loop the third. Pass: 7 of 10 sets with no mistakes."
+          }
+        ]
+      },
+      {
+        "name": "Topspin rallies and blocking",
+        "goal": "Block a loop, and loop against topspin.",
+        "steps": [
+          {
+            "drillId": "zero-to-hero-5-1",
+            "note": "Backhand block, racket closed. Pass: 8 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-5-2",
+            "note": "Forehand loop on a topspin ball. Pass: 7 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-5-3",
+            "note": "Short, quick block. Pass: 7 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-5-4",
+            "note": "Reading and moving at speed. Pass: 7 of 10 land on the table."
+          }
+        ]
+      },
+      {
+        "name": "Game situations",
+        "goal": "Mix the strokes the way a match does.",
+        "steps": [
+          {
+            "drillId": "zero-to-hero-6-1",
+            "note": "Loop a long return, then keep attacking. Pass: 6 of 10 sets with no mistakes."
+          },
+          {
+            "drillId": "zero-to-hero-6-2",
+            "note": "Push the short ball, loop the long one. Pass: 7 of 10 with the right stroke, on the table."
+          },
+          {
+            "drillId": "zero-to-hero-6-3",
+            "note": "Seeing how much spin a ball has. Pass: 7 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-6-4",
+            "note": "Footwork to the corners. Pass: 7 of 10 land on the table."
+          },
+          {
+            "drillId": "zero-to-hero-6-5",
+            "note": "Opening, then finishing the point. Pass: 6 of 10 sets with no mistakes."
+          },
+          {
+            "drillId": "zero-to-hero-6-6",
+            "note": "Everything. You win a point when your return lands on the table. Pass: win 7 of 10 points."
+          }
+        ]
+      }
+    ],
+    "source": "preset",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://unpkg.com/knip@6/schema.json",
+  // shadcn adds components to components/ui before any screen uses them.
+  // utils.ts is where app code imports cn from (docs/licenses.md).
+  "entry": ["app/components/ui/**/*.tsx", "app/lib/utils.ts"],
+}
