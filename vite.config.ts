@@ -3,6 +3,8 @@ import tailwindcss from '@tailwindcss/vite';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
+  // GitHub Pages serves the app from /tt-rally-bot/. Keep in step with `basename` in react-router.config.ts.
+  base: '/tt-rally-bot/',
   plugins: [tailwindcss(), reactRouter()],
   optimizeDeps: {
     // React Router gives Vite no files to scan, so in dev Vite finds a library only when a screen first uses it,

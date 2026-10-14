@@ -34,7 +34,7 @@ The app runs in Chrome on a computer. A phone app (iOS and Android) is planned.
    pnpm dev
    ```
 
-3. Open http://localhost:5173 in Chrome.
+3. Open http://localhost:5173/tt-rally-bot/ in Chrome.
 4. Select **Connect** and choose the robot in Chrome's Bluetooth window.
 
 Web Bluetooth works only on `localhost` or on an `https://` address.
@@ -43,7 +43,7 @@ Web Bluetooth works only on `localhost` or on an `https://` address.
 
 The app has a simulated robot. To turn it on, do one of these:
 
-- open the app with `?robot=sim` at the end of the address, for example http://localhost:5173/?robot=sim
+- open the app with `?robot=sim` at the end of the address, for example http://localhost:5173/tt-rally-bot/?robot=sim
 - go to **Settings** and turn on **Simulated robot**
 
 ## Build and deploy
@@ -54,14 +54,17 @@ The app is a single-page app (React Router in SPA mode). To build it:
 pnpm build
 ```
 
-This writes static files to `build/client/`. Put that folder on any static web host.
+This writes static files to `build/client/`.
 
-The host must send every path to `index.html`, or links to pages inside the app will show "404 Not Found". For
-example, with a `_redirects` file:
+The app is deployed to GitHub Pages at `https://<user>.github.io/tt-rally-bot/`. The workflow in
+`.github/workflows/deploy.yml` builds and deploys it each time you push to `main`. To set it up once, go to the repo's
+**Settings → Pages** and set **Source** to **GitHub Actions**.
 
-```
-/*    /index.html   200
-```
+The app expects to be served from `/tt-rally-bot/`. To serve it from a different path, change `basename` in
+`react-router.config.ts` and `base` in `vite.config.ts`.
+
+GitHub Pages can't send every path to `index.html`, so the workflow copies `index.html` to `404.html`. This lets links
+to pages inside the app open directly.
 
 ## Commands
 
